@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://example.com/</loc></url>
-<url><loc>https://example.com/about.html</loc></url>
-<url><loc>https://example.com/affiliate-disclosure.html</loc></url>
-<url><loc>https://example.com/privacy.html</loc></url>
-<url><loc>https://example.com/contact.html</loc></url>
-<url><loc>https://example.com/guides/</loc></url>
-<url><loc>https://example.com/guides/ai-automation.html</loc></url>
-<url><loc>https://example.com/guides/seo-api.html</loc></url>
-<url><loc>https://example.com/guides/website-builders.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/about.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/affiliate-disclosure.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/privacy.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/contact.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/guides/</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/guides/ai-automation.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/guides/seo-api.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/guides/website-builders.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/comparisons/</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/comparisons/lindy-vs-manus.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/comparisons/higgsfield-vs-wayinvideo.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/comparisons/systeme-vs-blink.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/dataforseo.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/elevenlabs.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/lindy.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/manus.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/higgsfield.html</loc></url>
+<url><loc>https://toolpilot-othmane12.vercel.app/reviews/systeme.html</loc></url>
 </urlset>
